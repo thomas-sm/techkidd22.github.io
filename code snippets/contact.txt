@@ -1,0 +1,47 @@
+<html>
+<head>
+style>
+.fa {
+  padding: 15px;
+  font-size: 17px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+</style>
+</head>
+<body>
+<a href="https://twitter.com/tech_kidd0?s=08" class="fa fa-twitter"></a>
+<a href="https://www.linkedin.com/in/thomas-mutuku-36b3071b1" class="fa fa-linkedin"></a>
+<a href="https://youtube.com/channel/UCKUnJuhTv3Uh8ACknwOTfOA" class="fa fa-youtube"></a>
+<a href="https://www.instagram.com/_tech_kidd?r=nametag" class="fa fa-instagram"></a>
+
+</body>
+</html>
